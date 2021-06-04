@@ -16,6 +16,6 @@ And if the user don't speak at that time when the speech to text converter runs,
 ![Screenshot_20210604-203813](https://user-images.githubusercontent.com/64889275/120832109-e7794380-c57d-11eb-9d09-cdc463c82410.png)
 
 
-Suppose the user speaks hi how are you while the speech to text converter runs, then it displays the spoken result on screen-
+Suppose the user speaks- "hi how are you" when the speech to text converter runs, then it displays the spoken result on screen-
 
 ![Screenshot_20210604-203802](https://user-images.githubusercontent.com/64889275/120832287-1a233c00-c57e-11eb-80c0-605b86856e1f.png)
